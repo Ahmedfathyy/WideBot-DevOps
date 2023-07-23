@@ -118,4 +118,4 @@ Local.tf: Contains the local variables used in the Terraform code.
 Obtain_SSL_cert.sh: Contains the script to obtain SSL certificates.
 Compose.yaml: Contains the Docker Compose file to run the application locally.
 
-![Blank diagram](https://github.com/Ahmedfathyy/WideBot-DevOps/assets/100867143/f081f2d8-9fcd-4158-959c-1225642cb545)
+![Blank diagram]
