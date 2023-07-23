@@ -118,5 +118,3 @@ Local.tf: Contains the local variables used in the Terraform code.
 Obtain_SSL_cert.sh: Contains the script to obtain SSL certificates.
 Compose.yaml: Contains the Docker Compose file to run the application locally.
 
-## Infrastructure Architecture
-![Alt text](<Blank diagram.png>)
