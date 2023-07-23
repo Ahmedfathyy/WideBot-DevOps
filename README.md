@@ -51,21 +51,20 @@ Associates the key pair with the instances in the Auto Scaling Group.
 To use this repository, follow the steps below:
 
 Clone the repository:
-Copy
 git clone https://github.com/Ahmedfathyy/WideBot-DevOps.git
 ```
 Change into the cloned directory:
-Copy
+
 cd WideBot-DevOps
 Modify the variables.tf file to suit your environment.
 Run the following command to initialize your working directory and download the necessary plugins:
-Copy
+
 terraform init
 Run the following command to preview the changes that Terraform will make:
-Copy
+
 terraform plan
 If the preview looks good, apply the changes with the following command:
-Copy
+
 terraform apply
 
 ## Resources
